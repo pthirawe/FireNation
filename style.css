@@ -21,6 +21,14 @@ h2{
     float: left;
     margin-right: 100px;
 }
+#EliDiv{
+    float: right;
+}
+#EliDiv img{
+    float: left;
+    margin-right: 100px;
+    border: solid black, 2px;
+}
 
 /* 
 Color Scheme
