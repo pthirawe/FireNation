@@ -40,6 +40,14 @@ img{
     float: left;
     margin-right: 20px;
 }
+#EliDiv{
+    float: right;
+}
+#EliDiv img{
+    float: left;
+    margin-right: 100px;
+    border: solid black, 2px;
+}
 
 /* 
 Color Scheme
