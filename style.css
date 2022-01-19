@@ -1,0 +1,60 @@
+body{
+    background-color: #6d6a75;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: inline-block;
+    color: #ECE5F0;
+    width: 100%;
+    font-size: 150px;
+    background-color: #0F0A0A;
+    margin: 0;
+}
+h2{
+    display: inline-block;
+    width: 100%;
+    color: #EDAE49;
+    background-color: #0F0A0A;
+    margin: 0;
+    padding-bottom: 15px;
+    font-style: italic;
+    font-size: 50px;
+}
+div{
+    display: inline-block;
+    width: 100%;
+    background-color: #EA2B1F;
+}
+p{
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+}
+img{
+    float: left;
+    margin-right: 20px;
+}
+#EliDiv{
+    float: right;
+}
+#EliDiv img{
+    float: left;
+    margin-right: 100px;
+    border: solid black, 2px;
+}
+
+/* 
+Color Scheme
+SmokyBlack 0F0A0A
+RedPigment EA2B1F
+Sunray EDAE49
+DimGray 6D6A75
+Magnolia ECE5F0
+*/
+
