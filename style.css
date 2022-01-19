@@ -1,3 +1,27 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: inline-block;
+    width: 100%;
+}
+h2{
+    display: inline-block;
+    width: 100%;
+}
+#patomDiv p{
+    float: right;
+}
+#patomDiv img{
+    float: left;
+    margin-right: 100px;
+}
+
 /* 
 Color Scheme
 SmokyBlack 0F0A0A
@@ -6,3 +30,4 @@ Sunray EDAE49
 DimGray 6D6A75
 Magnolia ECE5F0
 */
+
